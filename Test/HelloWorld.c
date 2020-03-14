@@ -8,6 +8,7 @@ int main(){
        if(i==j)
        {
          printf("\n");
+         
        }
     }
    }
